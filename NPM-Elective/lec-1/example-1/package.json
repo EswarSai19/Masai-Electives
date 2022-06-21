@@ -1,0 +1,15 @@
+{
+  "name": "example-1",
+  "version": "1.0.0",
+  "description": "Eswar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "qrcode": "^1.5.0"
+  }
+}
