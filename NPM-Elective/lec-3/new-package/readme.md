@@ -2,8 +2,8 @@
  ## Student Code :
  ## fw17_1070
  ### `Experience`
- - Worked as product distributor at Glaze trading india pvt ltd for 2 years.
- - Worked as a Graduate engineer trainee at Kcp cements ltd for 1 year.
+ - Worked as **product distributor** at Glaze trading india pvt ltd for 2 years.
+ - Worked as a **Graduate engineer trainee** at Kcp cements ltd for 1 year.
 
  ### `Education` 
  - Completed `Secondary School` at Nagarjuna High school, jaggaayyapet.
